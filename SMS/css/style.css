@@ -1,0 +1,32 @@
+body{
+	width: 1500px;
+	position: center;
+	text-align: left;
+}
+#jumbotron{
+	background-image:url(img/scene1.jpg); 
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	background-position: center;
+
+}
+footer{
+	background-color: #009000;
+}
+.title{
+	color: red;
+	
+}
+.form{
+	
+	
+	
+	text-align: center;
+}
+.desc{
+	font-family: Times New Roman;
+	text-align: justify;
+}
+#p{
+	text-align: right;
+}
